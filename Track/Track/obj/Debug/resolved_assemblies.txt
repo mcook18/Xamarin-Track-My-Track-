@@ -1,0 +1,9 @@
+Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\assemblies\Track.dll
+Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\assemblies\Mono.Android.dll
+Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\assemblies\mscorlib.dll
+Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\assemblies\System.Core.dll
+Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\assemblies\System.dll
+Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\assemblies\System.Xml.dll
+Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\assemblies\System.Xml.Linq.dll
+Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\assemblies\System.Runtime.Serialization.dll
+Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\assemblies\System.ServiceModel.Internals.dll

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="trackmytrack.azurewebsites.net.TimerFragment">
+    <Chronometer
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/chronometerS"
+        android:layout_marginTop="212dp"
+        android:height="96sp"
+        android:width="288sp"
+        android:textSize="64sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="80dp"
+        android:text="START"
+        android:id="@+id/StartStopBT"
+        android:layout_below="@+id/chronometerS"
+        android:layout_alignRight="@+id/chronometerS"
+        android:layout_alignEnd="@+id/chronometerS"
+        android:layout_alignLeft="@+id/chronometerS"
+        android:layout_alignStart="@+id/chronometerS"
+        android:layout_marginTop="10dp"
+        android:textSize="35dp" />
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="80dp"
+        android:text="PAUSE"
+        android:id="@+id/LapTimeBT"
+        android:layout_below="@+id/StartStopBT"
+        android:layout_alignRight="@+id/StartStopBT"
+        android:layout_alignEnd="@+id/StartStopBT"
+        android:layout_alignLeft="@+id/StartStopBT"
+        android:layout_alignStart="@+id/StartStopBT"
+        android:layout_marginTop="10dp"
+        android:textSize="35dp" />
+</RelativeLayout>
