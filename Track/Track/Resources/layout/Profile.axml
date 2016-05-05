@@ -9,6 +9,7 @@
         android:layout_width="280dp"
         android:layout_height="280dp"
         android:id="@+id/PEpicEditIB"
+        android:background="@drawable/bailey"
         android:layout_alignParentTop="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true" />

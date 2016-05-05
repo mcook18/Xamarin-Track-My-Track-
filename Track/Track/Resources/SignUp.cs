@@ -18,7 +18,7 @@ namespace Track.Resources
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-
+            SetContentView(Resource.Layout.SignUp);//displays signup page axml
             // Create your application here
         }
     }

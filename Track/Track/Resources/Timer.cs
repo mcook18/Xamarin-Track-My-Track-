@@ -18,7 +18,7 @@ namespace Track.Resources.values
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-
+            SetContentView(Resource.Layout.Timer);//displays timer axml
             // Create your application here
         }
     }

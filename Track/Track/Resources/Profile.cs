@@ -19,6 +19,7 @@ namespace Track.Resources.values
         {
             base.OnCreate(savedInstanceState);
 
+            SetContentView(Resource.Layout.Profile);
             // Create your application here
         }
     }

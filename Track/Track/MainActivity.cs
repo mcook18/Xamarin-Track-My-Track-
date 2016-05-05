@@ -22,20 +22,22 @@ namespace Track
 
             // Get our button from the layout resource,
             // and attach an event to it
+
+            Button signUp = FindViewById<Button>(Resource.Id.SignupButton);
+            signUp.Click += delegate{
+                // SetContentView(Resource.Layout.SignUp);//displays signup page axml
+                StartActivity(typeof(Track.Resources.SignUp));
+                Android.Widget.Toast.MakeText(this, "Signing up!", Android.Widget.ToastLength.Short).Show(); //shows text for signing up
+            };
+
             Button login = FindViewById<Button>(Resource.Id.LoginButton);
-            
             login.Click += delegate {
-                SetContentView(Resource.Layout.Menu);//takes to menu page
+                // SetContentView(Resource.Layout.Menu);//takes to menu page
+                StartActivity(typeof(Track.Resources.Menu));
                 Android.Widget.Toast.MakeText(this, "Logging in!", Android.Widget.ToastLength.Short).Show();
             };
 
-            Button signUp = FindViewById<Button>(Resource.Id.SignupButton);
-            
-            signUp.Click += delegate
-            {
-                SetContentView(Resource.Layout.SignUp);//takes to signup page
-                Android.Widget.Toast.MakeText(this, "Signing up!", Android.Widget.ToastLength.Short).Show(); //shows text for signing up
-            };
+           
             
         }
     }
