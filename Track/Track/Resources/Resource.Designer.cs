@@ -45,10 +45,10 @@ namespace Track
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int Icon = 2130837504;
+			public const int bailey = 2130837504;
 			
 			// aapt resource value: 0x7f020001
-			public const int profileegg = 2130837505;
+			public const int Icon = 2130837505;
 			
 			// aapt resource value: 0x7f020002
 			public const int settingspic = 2130837506;
