@@ -30,8 +30,20 @@
     <Button
         android:layout_width="300dp"
         android:layout_height="80dp"
-        android:text="PAUSE"
+        android:text="LAP"
         android:id="@+id/LapTimeBT"
+        android:layout_below="@+id/StopB"
+        android:layout_alignRight="@+id/StopB"
+        android:layout_alignEnd="@+id/StopB"
+        android:layout_alignLeft="@+id/StopB"
+        android:layout_alignStart="@+id/StopB"
+        android:layout_marginTop="10dp"
+        android:textSize="35dp" />
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="80dp"
+        android:text="STOP"
+        android:id="@+id/StopB"
         android:layout_below="@+id/StartStopBT"
         android:layout_alignRight="@+id/StartStopBT"
         android:layout_alignEnd="@+id/StartStopBT"

@@ -192,20 +192,23 @@ namespace Track
 			// aapt resource value: 0x7f05002a
 			public const int StartStopBT = 2131034154;
 			
+			// aapt resource value: 0x7f05002c
+			public const int StopB = 2131034156;
+			
 			// aapt resource value: 0x7f050007
 			public const int StopwIB = 2131034119;
 			
 			// aapt resource value: 0x7f050006
 			public const int TimerIB = 2131034118;
 			
+			// aapt resource value: 0x7f05002f
+			public const int TimerPause = 2131034159;
+			
 			// aapt resource value: 0x7f05002e
-			public const int TimerPause = 2131034158;
+			public const int TimerStart = 2131034158;
 			
 			// aapt resource value: 0x7f05002d
-			public const int TimerStart = 2131034157;
-			
-			// aapt resource value: 0x7f05002c
-			public const int chronometer2 = 2131034156;
+			public const int chronometer2 = 2131034157;
 			
 			// aapt resource value: 0x7f050029
 			public const int chronometerS = 2131034153;

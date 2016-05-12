@@ -46,12 +46,24 @@ namespace Track
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
+<<<<<<< HEAD
            // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
             var editTextEM = FindViewById<EditText>(Resource.Id.ETemail);
             var editTextPW = FindViewById<EditText>(Resource.Id.ETpassword);
           
  
+=======
+            
+            // Set our view from the "main" layout resource
+            SetContentView(Resource.Layout.Main);
+            var editTextEM = FindViewById<EditText>(Resource.Id.ETemail);
+            var editTextPW = FindViewById<EditText>(Resource.Id.ETpassword);
+            var textView = FindViewById<TextView>(Resource.Id.textView);
+            var textView2 = FindViewById<TextView>(Resource.Id.textView);
+            var Changed = false;
+
+>>>>>>> 62a8a835394d7744f898669fdd26f5d249609d61
             // Get our button from the layout resource,
             // and attach an event to it
 
