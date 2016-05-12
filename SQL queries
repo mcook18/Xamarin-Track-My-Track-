@@ -1,21 +1,16 @@
 <html><head><title>Execute SQL</title></head>
 <body>
 
-<A HREF="src.php?file=runSQLODBC.php">Click here to view source</A>
-
 <?php
     $uname = $_REQUEST["uname"];
     $pwd = $_REQUEST["pwd"];
-$connectionInfo = array("UID"=>"eparslow18", "pwd"=>"House10319",
+	$connectionInfo = array("UID"=>"eparslow18", "pwd"=>"House10319",
 							"Database"=> "trackmytrackserver.database.windows.net", "LoginTimeout"=>30, "Encrypt"=>1);
-$severName= "trackmytrackserver.database.windows.net, 1433";
-$conn = sqlsrv_connect($serverName, $connectionInfo);
- $SQL = "select * from userinfo where username='".$uname."' and password='".$pwd."';";
- $res = sqlsrv_query($conn, $SQL)
-	 or die("Failed to execute SQL (".$SQL."): ".odbc_error());
-
-	 echo "</TABLE>\n";
-
- echo "\ndone\n";
- ?>
+	$serverName= "trackmytrackserver.database.windows.net, 1433";
+	$conn = sqlsrv_connect($serverName, $connectionInfo);
+ 	$SQL = "select * from userinfo where username='".$uname."' and password='".$pwd."';";
+ 	$res = sqlsrv_query($conn, $SQL)
+		or die("Failed to execute SQL (".$SQL."): ".odbc_error());
+	echo "logged in";
+?>
 </body></html>

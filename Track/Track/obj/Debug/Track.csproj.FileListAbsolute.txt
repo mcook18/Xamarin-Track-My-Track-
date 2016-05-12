@@ -24,3 +24,29 @@ Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\R.cs.flag
 Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\uploadflags.txt
 Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\Track.dll.mdb
 Z:\How To Make Darn Near Anything\Track\Track\bin\Debug\Track.dll.mdb
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\bin\Debug\Track.dll
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\bin\Debug\Track.pdb
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\bin\Debug\Track.Track.apk
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\bin\Debug\Track.Track-Signed.apk
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\Track.csprojResolveAssemblyReference.cache
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\Track.dll
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\Track.pdb
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\android\bin\Track.Track.apk
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\res\layout\menu.xml
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\res\layout\signup.xml
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\res\layout\profile.xml
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\res\layout\settings.xml
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\res\layout\timer.xml
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\res\layout\stopwatch.xml
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\res\layout\main.xml
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\res\values\strings.xml
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\res\drawable\icon.png
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\res\drawable\timerpic.png
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\res\drawable\stopwatchpic.png
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\res\drawable\settingspic.png
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\res\drawable\trackpic.jpg
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\res\drawable\bailey.jpg
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\R.cs.flag
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\uploadflags.txt
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\Track.dll.mdb
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\bin\Debug\Track.dll.mdb

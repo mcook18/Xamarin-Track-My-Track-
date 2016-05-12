@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Track.Track" android:versionCode="1" android:versionName="1.0">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="Track" android:name="mono.android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+    <activity android:icon="@drawable/icon" android:label="Track my Track" android:name="md5b82d4d8ed2842920e4717739e8c4a067.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Menu" android:name="md5d2300617690b128f9760701bde9e593b.Menu" />
+    <activity android:label="SignUp" android:name="md5d2300617690b128f9760701bde9e593b.SignUp" />
+    <activity android:label="Profile" android:name="md557c0b3ecbe189faec04cf4af4bf17e78.Profile" />
+    <activity android:label="Settings" android:name="md557c0b3ecbe189faec04cf4af4bf17e78.Settings" />
+    <activity android:label="Timer" android:name="md557c0b3ecbe189faec04cf4af4bf17e78.Timer" />
+    <activity android:label="Stopwatch" android:name="md557c0b3ecbe189faec04cf4af4bf17e78.Stopwatch" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Track.Track.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.Track.Track" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>
