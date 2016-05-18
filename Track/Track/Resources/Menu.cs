@@ -47,8 +47,19 @@ namespace Track.Resources
             //    SetContentView(Resource.Layout.Settings);//takes to settings page
             //    Android.Widget.Toast.MakeText(this, "Going to the settings!", Android.Widget.ToastLength.Short).Show();
             //};
+            ImageButton toAdd= FindViewById<ImageButton>(Resource.Id.AddmoreIB);
+            toTimer.Click += delegate
+            {
+                StartActivity(typeof(Track.Resources.values.Add));
+                Android.Widget.Toast.MakeText(this, "Going to the Add page!", Android.Widget.ToastLength.Short).Show();
+            };
 
-          
+            ImageButton toRecords = FindViewById<ImageButton>(Resource.Id.RecordsIB);
+            toTimer.Click += delegate
+            {
+                StartActivity(typeof(Track.Resources.values.Records));
+                Android.Widget.Toast.MakeText(this, "Going to the Records page!", Android.Widget.ToastLength.Short).Show();
+            };
             // Create your application here
         }
     }

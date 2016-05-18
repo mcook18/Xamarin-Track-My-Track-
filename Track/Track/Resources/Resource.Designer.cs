@@ -75,14 +75,14 @@ namespace Track
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f05001f
-			public const int AboutBT = 2131034143;
+			// aapt resource value: 0x7f050020
+			public const int AboutBT = 2131034144;
+			
+			// aapt resource value: 0x7f05001d
+			public const int AccentColorBT = 2131034141;
 			
 			// aapt resource value: 0x7f05001c
-			public const int AccentColorBT = 2131034140;
-			
-			// aapt resource value: 0x7f05001b
-			public const int AccountSettingsBT = 2131034139;
+			public const int AccountSettingsBT = 2131034140;
 			
 			// aapt resource value: 0x7f05000b
 			public const int AddmoreIB = 2131034123;
@@ -93,20 +93,20 @@ namespace Track
 			// aapt resource value: 0x7f050001
 			public const int ETpassword = 2131034113;
 			
-			// aapt resource value: 0x7f05001a
-			public const int EditProfileBT = 2131034138;
+			// aapt resource value: 0x7f05001b
+			public const int EditProfileBT = 2131034139;
 			
-			// aapt resource value: 0x7f05002b
-			public const int LapTimeBT = 2131034155;
+			// aapt resource value: 0x7f05002c
+			public const int LapTimeBT = 2131034156;
 			
 			// aapt resource value: 0x7f050002
 			public const int LoginButton = 2131034114;
 			
-			// aapt resource value: 0x7f05001d
-			public const int NotificationsBT = 2131034141;
-			
 			// aapt resource value: 0x7f05001e
-			public const int NotificatoinsSW = 2131034142;
+			public const int NotificationsBT = 2131034142;
+			
+			// aapt resource value: 0x7f05001f
+			public const int NotificatoinsSW = 2131034143;
 			
 			// aapt resource value: 0x7f05000d
 			public const int PENamedis = 2131034125;
@@ -153,47 +153,47 @@ namespace Track
 			// aapt resource value: 0x7f050008
 			public const int RecordsIB = 2131034120;
 			
+			// aapt resource value: 0x7f050029
+			public const int SUSignupbt = 2131034153;
+			
 			// aapt resource value: 0x7f050028
-			public const int SUSignupbt = 2131034152;
-			
-			// aapt resource value: 0x7f050027
-			public const int SUconfirmPass = 2131034151;
-			
-			// aapt resource value: 0x7f050025
-			public const int SUconfirme = 2131034149;
-			
-			// aapt resource value: 0x7f050024
-			public const int SUemail = 2131034148;
-			
-			// aapt resource value: 0x7f050022
-			public const int SUname = 2131034146;
+			public const int SUconfirmPass = 2131034152;
 			
 			// aapt resource value: 0x7f050026
-			public const int SUpassword = 2131034150;
+			public const int SUconfirme = 2131034150;
+			
+			// aapt resource value: 0x7f050025
+			public const int SUemail = 2131034149;
 			
 			// aapt resource value: 0x7f050023
-			public const int SUschool = 2131034147;
+			public const int SUname = 2131034147;
 			
-			// aapt resource value: 0x7f050019
-			public const int Settings = 2131034137;
+			// aapt resource value: 0x7f050027
+			public const int SUpassword = 2131034151;
+			
+			// aapt resource value: 0x7f050024
+			public const int SUschool = 2131034148;
+			
+			// aapt resource value: 0x7f05001a
+			public const int Settings = 2131034138;
 			
 			// aapt resource value: 0x7f05000a
 			public const int SettingsIB = 2131034122;
 			
-			// aapt resource value: 0x7f050020
-			public const int SignOutBT = 2131034144;
+			// aapt resource value: 0x7f050021
+			public const int SignOutBT = 2131034145;
 			
 			// aapt resource value: 0x7f050003
 			public const int SignupButton = 2131034115;
 			
-			// aapt resource value: 0x7f050021
-			public const int Signuptxt = 2131034145;
+			// aapt resource value: 0x7f050022
+			public const int Signuptxt = 2131034146;
 			
-			// aapt resource value: 0x7f05002a
-			public const int StartStopBT = 2131034154;
+			// aapt resource value: 0x7f05002b
+			public const int StartStopBT = 2131034155;
 			
-			// aapt resource value: 0x7f05002c
-			public const int StopB = 2131034156;
+			// aapt resource value: 0x7f05002d
+			public const int StopB = 2131034157;
 			
 			// aapt resource value: 0x7f050007
 			public const int StopwIB = 2131034119;
@@ -201,17 +201,20 @@ namespace Track
 			// aapt resource value: 0x7f050006
 			public const int TimerIB = 2131034118;
 			
+			// aapt resource value: 0x7f050030
+			public const int TimerPause = 2131034160;
+			
 			// aapt resource value: 0x7f05002f
-			public const int TimerPause = 2131034159;
+			public const int TimerStart = 2131034159;
 			
 			// aapt resource value: 0x7f05002e
-			public const int TimerStart = 2131034158;
+			public const int chronometer2 = 2131034158;
 			
-			// aapt resource value: 0x7f05002d
-			public const int chronometer2 = 2131034157;
+			// aapt resource value: 0x7f05002a
+			public const int chronometerS = 2131034154;
 			
-			// aapt resource value: 0x7f050029
-			public const int chronometerS = 2131034153;
+			// aapt resource value: 0x7f050019
+			public const int records = 2131034137;
 			
 			// aapt resource value: 0x7f050009
 			public const int scrollView = 2131034121;
@@ -233,25 +236,31 @@ namespace Track
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int Main = 2130903040;
+			public const int Add = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int Menu = 2130903041;
+			public const int Main = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int Profile = 2130903042;
+			public const int Menu = 2130903042;
 			
 			// aapt resource value: 0x7f030003
-			public const int Settings = 2130903043;
+			public const int Profile = 2130903043;
 			
 			// aapt resource value: 0x7f030004
-			public const int SignUp = 2130903044;
+			public const int Records = 2130903044;
 			
 			// aapt resource value: 0x7f030005
-			public const int Stopwatch = 2130903045;
+			public const int Settings = 2130903045;
 			
 			// aapt resource value: 0x7f030006
-			public const int Timer = 2130903046;
+			public const int SignUp = 2130903046;
+			
+			// aapt resource value: 0x7f030007
+			public const int Stopwatch = 2130903047;
+			
+			// aapt resource value: 0x7f030008
+			public const int Timer = 2130903048;
 			
 			static Layout()
 			{

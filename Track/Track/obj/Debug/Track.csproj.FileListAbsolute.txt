@@ -21,5 +21,6 @@ C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\res\drawable\tr
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\res\drawable\bailey.jpg
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\R.cs.flag
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\uploadflags.txt
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\Track.csprojResolveAssemblyReference.cache
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\Track.dll.mdb
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\bin\Debug\Track.dll.mdb

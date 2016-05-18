@@ -85,7 +85,7 @@ namespace Track
                  string url = "http://trackmytrack.azurewebsites.net/login.php?uname=" + editTextEM.Text + "&pwd=" + editTextPW.Text;
                  string UsPw = await FetchDatabaseAsync(url);
                 
-                 ParseAndDisplay(UsPw);
+                 //ParseAndDisplay(UsPw);
              };
             editTextEM.TextChanged += (object sender, Android.Text.TextChangedEventArgs e) =>
             {
