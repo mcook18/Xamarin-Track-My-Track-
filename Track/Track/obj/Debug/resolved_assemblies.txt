@@ -1,22 +1,10 @@
-<<<<<<< HEAD
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\assemblies\Track.dll
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\assemblies\Mono.Android.dll
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\assemblies\mscorlib.dll
+C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\assemblies\SMDiagnostics.dll
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\assemblies\System.Core.dll
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\assemblies\System.dll
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\assemblies\System.Xml.dll
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\assemblies\System.Xml.Linq.dll
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\assemblies\System.Runtime.Serialization.dll
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\assemblies\System.ServiceModel.Internals.dll
-=======
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\assemblies\Track.dll
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\assemblies\Mono.Android.dll
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\assemblies\mscorlib.dll
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\assemblies\SMDiagnostics.dll
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\assemblies\System.Core.dll
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\assemblies\System.dll
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\assemblies\System.Xml.dll
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\assemblies\System.Xml.Linq.dll
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\assemblies\System.Runtime.Serialization.dll
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\assemblies\System.ServiceModel.Internals.dll
->>>>>>> 62a8a835394d7744f898669fdd26f5d249609d61

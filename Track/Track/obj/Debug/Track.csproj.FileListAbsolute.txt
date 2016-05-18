@@ -1,35 +1,7 @@
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\Track.csprojResolveAssemblyReference.cache
-Z:\How To Make Darn Near Anything\Track\Track\bin\Debug\Track.dll
-Z:\How To Make Darn Near Anything\Track\Track\bin\Debug\Track.pdb
-Z:\How To Make Darn Near Anything\Track\Track\bin\Debug\Track.Track.apk
-Z:\How To Make Darn Near Anything\Track\Track\bin\Debug\Track.Track-Signed.apk
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\Track.dll
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\Track.pdb
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\android\bin\Track.Track.apk
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\res\layout\menu.xml
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\res\layout\signup.xml
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\res\layout\profile.xml
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\res\layout\settings.xml
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\res\layout\timer.xml
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\res\layout\stopwatch.xml
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\res\layout\main.xml
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\res\values\strings.xml
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\res\drawable\icon.png
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\res\drawable\timerpic.png
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\res\drawable\stopwatchpic.png
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\res\drawable\settingspic.png
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\res\drawable\trackpic.jpg
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\res\drawable\bailey.jpg
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\R.cs.flag
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\uploadflags.txt
-Z:\How To Make Darn Near Anything\Track\Track\obj\Debug\Track.dll.mdb
-Z:\How To Make Darn Near Anything\Track\Track\bin\Debug\Track.dll.mdb
-<<<<<<< HEAD
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\bin\Debug\Track.dll
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\bin\Debug\Track.pdb
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\bin\Debug\Track.Track.apk
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\bin\Debug\Track.Track-Signed.apk
-C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\Track.csprojResolveAssemblyReference.cache
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\Track.dll
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\Track.pdb
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\android\bin\Track.Track.apk
@@ -51,30 +23,3 @@ C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\R.cs.flag
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\uploadflags.txt
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\obj\Debug\Track.dll.mdb
 C:\Users\mcook18\Documents\TrackmytrackXam\Track\Track\bin\Debug\Track.dll.mdb
-=======
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\bin\Debug\Track.dll
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\bin\Debug\Track.pdb
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\bin\Debug\Track.Track.apk
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\bin\Debug\Track.Track-Signed.apk
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\Track.dll
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\Track.pdb
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\android\bin\Track.Track.apk
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\res\layout\menu.xml
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\res\layout\signup.xml
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\res\layout\profile.xml
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\res\layout\settings.xml
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\res\layout\timer.xml
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\res\layout\stopwatch.xml
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\res\layout\main.xml
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\res\values\strings.xml
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\res\drawable\icon.png
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\res\drawable\timerpic.png
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\res\drawable\stopwatchpic.png
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\res\drawable\settingspic.png
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\res\drawable\trackpic.jpg
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\res\drawable\bailey.jpg
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\R.cs.flag
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\uploadflags.txt
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\obj\Debug\Track.dll.mdb
-C:\Users\eparslow18\Documents\Xamarin-Track-My-Track-\Track\Track\bin\Debug\Track.dll.mdb
->>>>>>> 62a8a835394d7744f898669fdd26f5d249609d61

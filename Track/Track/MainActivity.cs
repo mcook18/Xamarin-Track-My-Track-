@@ -46,63 +46,68 @@ namespace Track
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
-<<<<<<< HEAD
+
            // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
             var editTextEM = FindViewById<EditText>(Resource.Id.ETemail);
             var editTextPW = FindViewById<EditText>(Resource.Id.ETpassword);
           
  
-=======
+
             
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
-            var editTextEM = FindViewById<EditText>(Resource.Id.ETemail);
-            var editTextPW = FindViewById<EditText>(Resource.Id.ETpassword);
+      
             var textView = FindViewById<TextView>(Resource.Id.textView);
             var textView2 = FindViewById<TextView>(Resource.Id.textView);
-            var Changed = false;
+          
 
->>>>>>> 62a8a835394d7744f898669fdd26f5d249609d61
+
             // Get our button from the layout resource,
             // and attach an event to it
 
             Button signUp = FindViewById<Button>(Resource.Id.SignupButton);
             signUp.Click += delegate{
-                // SetContentView(Resource.Layout.SignUp);//displays signup page axml
+                SetContentView(Resource.Layout.SignUp);//displays signup page axml
                 StartActivity(typeof(Track.Resources.SignUp));
                 Android.Widget.Toast.MakeText(this, "Signing up!", Android.Widget.ToastLength.Short).Show(); //shows text for signing up
             };
-
+            
             Button login = FindViewById<Button>(Resource.Id.LoginButton);
-            login.Enabled = false;
-             login.Click += async delegate
-             {
-                 // SetContentView(Resource.Layout.Menu);//takes to menu page
+           login.Enabled = false;
+
+            login.Click += async delegate {
+               
+
+                SetContentView(Resource.Layout.Menu);//takes to menu page
                  StartActivity(typeof(Track.Resources.Menu));
                  Android.Widget.Toast.MakeText(this, "Logging in!", ToastLength.Short).Show();
                  string url = "http://trackmytrack.azurewebsites.net/login.php?uname=" + editTextEM.Text + "&pwd=" + editTextPW.Text;
                  string UsPw = await FetchDatabaseAsync(url);
-                 //ParseAndDisplay(UsPw);
-             };
-            // Takes the username and password and sends a web request with our URL, then waits for a response.
-           
                 
-             
+                 ParseAndDisplay(UsPw);
+             };
             editTextEM.TextChanged += (object sender, Android.Text.TextChangedEventArgs e) =>
-              {
-                  if (editTextEM.Text.Length > 0 && editTextPW.Text.Length > 0)
+            {
+                if (editTextEM.Text.Length > 0 && editTextPW.Text.Length > 0)
                     login.Enabled = true;
-                 
-              };
+                else
+                    login.Enabled = false;
+
+            };
             editTextPW.TextChanged += (object sender, Android.Text.TextChangedEventArgs e) =>
             {
                 if (editTextEM.Text.Length > 0 && editTextPW.Text.Length > 0)
                     login.Enabled = true;
-                
+                else
+                    login.Enabled = false;
             };
-            
-            }
+            // Takes the username and password and sends a web request with our URL, then waits for a response.
+
+
+
+
+        }
         }
 
     }

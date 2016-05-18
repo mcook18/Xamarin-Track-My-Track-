@@ -80,10 +80,7 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		"Track.dll",
-<<<<<<< HEAD
-=======
 		"SMDiagnostics.dll",
->>>>>>> 62a8a835394d7744f898669fdd26f5d249609d61
 		"System.ServiceModel.Internals.dll",
 	};
 	public static final String[] Dependencies = new String[]{

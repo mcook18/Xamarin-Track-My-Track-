@@ -58,20 +58,12 @@ public final class R {
         public static final int SignupButton=0x7f050003;
         public static final int Signuptxt=0x7f050021;
         public static final int StartStopBT=0x7f05002a;
-<<<<<<< HEAD
-        public static final int StopwIB=0x7f050007;
-        public static final int TimerIB=0x7f050006;
-        public static final int TimerPause=0x7f05002e;
-        public static final int TimerStart=0x7f05002d;
-        public static final int chronometer2=0x7f05002c;
-=======
         public static final int StopB=0x7f05002c;
         public static final int StopwIB=0x7f050007;
         public static final int TimerIB=0x7f050006;
         public static final int TimerPause=0x7f05002f;
         public static final int TimerStart=0x7f05002e;
         public static final int chronometer2=0x7f05002d;
->>>>>>> 62a8a835394d7744f898669fdd26f5d249609d61
         public static final int chronometerS=0x7f050029;
         public static final int scrollView=0x7f050009;
         public static final int textView=0x7f050004;
